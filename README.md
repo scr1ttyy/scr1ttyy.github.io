@@ -23,21 +23,21 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
 
 ### 📝 Currently Learning:
 
-  * ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com)
+  * ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
   
-  * ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com)
+  * ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
   
   * ☑️ Practicing [Golang](https://golang.org) programming.
   
-  * ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com)
+  * ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
   
 📚 Currently Reading:
 
-  * ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins
+  * ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
 
 🏆 Accomplishments
 
-  * ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon)
+  * ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon).
 
 🗒️ Writeups
 
