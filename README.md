@@ -41,7 +41,7 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
 
 🗒️ Writeups
 
-  * *😟 under construction*
+  * [Hackthebox](/Writeups/HackTheBox/)
 
 ### Donation Box
 *Not Required but appreciated :D*
