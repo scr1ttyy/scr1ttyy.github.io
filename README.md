@@ -1,5 +1,9 @@
 ## 📖 Personal Blog About My Cybersecurity Journey
 
+### About Me
+My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
+
+
 Welcome to my little world where I record my steps on becoming a Cybersecurity Practioner (especially Red Teaming).
 This blog post serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.
 
@@ -16,10 +20,6 @@ This blog post serves as my personal journal as well as a guide for aspiring ind
 8. Be you own motivator. Give yourself a reason to become persistent on what you do.
 9. Do not **compare** your achievements to others as it will hinder your success. Mind your own business. Keep moving forward.
 10. Give back to the community that helped you break your way into cybersecurity. 
-
-### About Me
-
-My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
 
 ### 📝 Currently Learning:
 
@@ -45,13 +45,12 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
 
   * [Hackthebox: Cap](/Writeups/HackTheBox/Cap/Cap)
 
+#### Socials
+- [Twitter](https://twitter.com/hambyhaxx)
+
 ### Donation Box
 *Not Required but appreciated :D*
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hambyhaxx)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hambyhaxx)
-
-
-#### Socials
-- [Twitter](https://twitter.com/hambyhaxx)
