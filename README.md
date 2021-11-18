@@ -48,8 +48,8 @@ This blog post serves as my personal journal as well as a guide for aspiring ind
 
   * [Hackthebox: Cap](/Writeups/HackTheBox/Cap/Cap)
 
-#### Socials
+#### 📥 Socials
 - [Twitter](https://twitter.com/hambyhaxx)
 
-#### Support Me!
+#### 💝 Support Me!
 - [Donations](./donationBox)
