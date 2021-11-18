@@ -1,6 +1,9 @@
 ## 📖 Personal Blog About My Cybersecurity Journey
 
 ### About Me
+
+![catto](https://avatars.githubusercontent.com/u/92630210?v=4&s=100)
+
 My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
 
 
