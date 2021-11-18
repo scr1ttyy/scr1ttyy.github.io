@@ -40,8 +40,10 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
   * ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon).
 
 🗒️ Writeups
+    
+    *Recently Added*
 
-  * [Hackthebox](/Writeups/HackTheBox/)
+  * [Hackthebox:Cap](/Writeups/HackTheBox/Cap.md)
 
 ### Donation Box
 *Not Required but appreciated :D*
