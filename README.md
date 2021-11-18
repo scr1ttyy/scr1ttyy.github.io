@@ -31,15 +31,15 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
   
   * ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
   
-📚 Currently Reading:
+### 📚 Currently Reading:
 
   * ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
 
-🏆 Accomplishments
+### 🏆 Accomplishments
 
   * ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon).
 
-🗒️ Writeups
+### 🗒️ Writeups
     
 *Recently Added*
 
