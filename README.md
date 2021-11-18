@@ -41,7 +41,7 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
 
 🗒️ Writeups
     
-    *Recently Added*
+*Recently Added*
 
   * [Hackthebox:Cap](/Writeups/HackTheBox/Cap.md)
 
