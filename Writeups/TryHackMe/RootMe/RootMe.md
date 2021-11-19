@@ -15,7 +15,7 @@ Finished on: Arch Linux
 #### *Scoping and Preparation*
 
 * Connect to OpenVPN Server using:
- 
+
     ``sudo openvpn {PATH_TO_OVPN_FILE}``
 
 * I used my tool [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) to automate directory creation, network scanning, web directory brute-forcing and adding entry to `/etc/hosts` file.
@@ -34,12 +34,13 @@ Finished on: Arch Linux
 #### *Preliminary Enumeration via nmap*
 
 **Table 1.1: nmap Results Summary**
+
 PORT | STATUS | SERVICE | VERSION
 :---: | :---: | :---: | :---:
 22/tcp | open | SSH | OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 80/tcp | open | http | Apache httpd 2.4.29 ((Ubuntu))
 
-![Nmap Scan](./imgs/RootMe/rootme_nmap_scan.png)
+![Nmap Scan](../imgs/RootMe/rootme_nmap_scan.png)
 
 Machine OS: Based on OpenSSH version, machine is [Ubuntu Bionic](https://launchpad.net/ubuntu/+source/openssh/1:7.6p1-4ubuntu0.3)
 
@@ -49,11 +50,11 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Bionic](https://launchp
 
 * Looking at the webpage at port 80, we are greeted by this webpage below.
 
-![Webpage at port 80](./imgs/RootMe/webpage_port80.png)
+![Webpage at port 80](../imgs/RootMe/webpage_port80.png)
 
 * We can also look at the web technologies used in ``rootme.thm`` using [Wappalyzer](https://www.wappalyzer.com/).
 
-![Wappalyzer](./imgs/RootMe/rootme_webTech.png)
+![Wappalyzer](../imgs/RootMe/rootme_webTech.png)
 
 * Let's enumerate more using automated tools.
 
@@ -61,24 +62,23 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Bionic](https://launchp
 
 #### *Web Enumeration using GoBuster*
 
-
 * Using [GoBuster](https://github.com/OJ/gobuster), we found some interesting directories.
 
-![GoBuster Scan Results](./imgs/RootMe/gobuster_scan.png)
+![GoBuster Scan Results](../imgs/RootMe/gobuster_scan.png)
 
 * As we can see above, there is a ``/panel`` directory! Let's try to navigate to that.
 
-![Upload Function](./imgs/RootMe/file_upload_endpoint.png)
+![Upload Function](../imgs/RootMe/file_upload_endpoint.png)
 
 * Nice! An upload page. We can try to upload some files to determine which file extensions are accepted.
 
 ![tries uploading .jpg](./imgs/RootMe/tried_upload_jpg.png)
-https://github.com/pentestmonkey/php-reverse-shell
-![Uploaded .jpg](./imgs/RootMe/file_upload_success.png)
+<https://github.com/pentestmonkey/php-reverse-shell>
+![Uploaded .jpg](../imgs/RootMe/file_upload_success.png)
 
 * Our file is also getting executed by the webpage.
 
-![Webpage executes file](./imgs/RootMe/webpage_executing_files.png)
+![Webpage executes file](../imgs/RootMe/webpage_executing_files.png)
 
 * We can try another file extensions to test the upload functionality even more. Knowing that the webpage is using ``PHP``, we try to upload a [PHP reverse shell](https://github.com/pentestmonkey/php-reverse-shell) to get a foothold on the machine. Change your IP to your assigned IP and port to your preferred port for capturing the reverse shell. To know which IP you are assigned to:
 
@@ -86,13 +86,13 @@ https://github.com/pentestmonkey/php-reverse-shell
 
 * Also you can view the room page of [RootMe](https://tryhackme.com/room/rrootme) machine to get your IP. Make sure that you are connected to the VPN.
 
-![PHP reverse shell](./imgs/RootMe/php_rev_shell.png)
+![PHP reverse shell](../imgs/RootMe/php_rev_shell.png)
 
 * We also tried to confuse the filter for the file upload functionality by appending another extension to our file. You can simply change the file extension by using the ``mv`` command.
 
     Syntax: ``mv {FILE} {NEW_FILENAME}.{FILE_EXTENSION}``
 
-    Ex: ``mv test.php test.php.jpg`` 
+    Ex: ``mv test.php test.php.jpg``
 
 * Appending another file extension does not work so we try to do change the file extension similar to ``.php``. We can refer to [this](https://book.hacktricks.xyz/pentesting-web/file-upload) excellent resource for someone who is aspiring to learn more about cybersecurity.
 
@@ -108,9 +108,9 @@ https://github.com/pentestmonkey/php-reverse-shell
 
 2. Go to the vulnerable endpoint, in this case, a file upload page (``https://rootme.thm/panel``) and upload our modified reverse shell file.
 
-    ![upload phtml](./imgs/RootMe/similar_php_file.png)
+    ![upload phtml](../imgs/RootMe/similar_php_file.png)
 
-    ![Success .phtml file](./imgs/RootMe/success_phtml.png)
+    ![Success .phtml file](../imgs/RootMe/success_phtml.png)
 
 3. Start ``netcat`` as reverse shell listener.
 
@@ -120,17 +120,17 @@ https://github.com/pentestmonkey/php-reverse-shell
 
 5. To verify if our IP is correct in the reverse shell file:
 
-    ![Test for IP correctness](./imgs/RootMe/reverse_shell_error_message.png)
+    ![Test for IP correctness](../imgs/RootMe/reverse_shell_error_message.png)
 
     To fix: Set up a listener for the connection.
 
 6. Setting up the reverse shell listener, it should look like this:
 
-    ![Shell Popped](./imgs/RootMe/www_data_in_webpage.png)
+    ![Shell Popped](../imgs/RootMe/www_data_in_webpage.png)
 
 7. We can also upgrade our shell session to clear the screen. To do this:
 
-    ![Upgrading Shell](./imgs/RootMe/upgrading_shell.png)
+    ![Upgrading Shell](../imgs/RootMe/upgrading_shell.png)
 
 ### Privilege Escalation / Post-Exploitation
 
@@ -162,9 +162,9 @@ COMMAND | DESCRIPTION
     1. ``cd /usr/bin`` this is the directory where the ``python`` binary reside.
     2. Type in the terminal: ``./python -c 'import os; os.execl("/bin/sh", "sh", "-p")'``. This command runs the python binary and executes a persistent shell with root privileges because of the SUID bit.
 
-    ![Rooted](./imgs/RootMe/rooted.png)
+    ![Rooted](../imgs/RootMe/rooted.png)
 
-    3. ``#`` denotes that we are root user on the machine. 
+    3. ``#`` denotes that we are root user on the machine.
 
 * Navigate to /root/ directory and get your root.txt flag!
 
