@@ -46,8 +46,8 @@ This blog post serves as my personal journal as well as a guide for aspiring ind
     
 *Recently Added*
 
-  * [Hackthebox: Cap](./Writeups/HackTheBox/Cap/Cap)
-  * [TryHackMe: RootMe](./Writeups/TryHackMe/RootMe/RootMe)
+  * [Hackthebox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
+  * [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
 
 #### 📥 Socials
 - [Twitter](https://twitter.com/hambyhaxx)
