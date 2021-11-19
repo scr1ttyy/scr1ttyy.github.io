@@ -72,7 +72,7 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Bionic](https://launchp
 
 * Nice! An upload page. We can try to upload some files to determine which file extensions are accepted.
 
-![tries uploading .jpg](./imgs/RootMe/tried_upload_jpg.png)
+![tries uploading .jpg](../imgs/RootMe/tried_upload_jpg.png)
 <https://github.com/pentestmonkey/php-reverse-shell>
 ![Uploaded .jpg](../imgs/RootMe/file_upload_success.png)
 
