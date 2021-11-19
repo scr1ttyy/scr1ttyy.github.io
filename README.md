@@ -44,6 +44,7 @@ My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working t
 *Recently Added*
 
   * [Hackthebox: Cap](/Writeups/HackTheBox/Cap/Cap)
+  * [TryHackMe: RootMe](/Writeups/TryHackMe/RootMe/RootMe)
 
 ### Donation Box
 *Not Required but appreciated :D*
