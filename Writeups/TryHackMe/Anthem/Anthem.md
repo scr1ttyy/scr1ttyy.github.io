@@ -145,7 +145,6 @@ COMMAND | DESCRIPTION
 ``sudo -l`` | lists all binaries/files/programs the current user has ``sudo`` permissions. (might require password)
 ``find / -type f -user root -perm -u+s 2>/dev/null`` | finds files in ``/`` directory that has [SUID](https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/) bit set. If any, consult [GTFOBins](https://gtfobins.github.io/).
 ``uname -a`` | prints system information (-a = all)
-``whoami && id`` | prints `effective userid` (EUID) and prints `real` and `effective userid` and `groupids` (GID).
 
 *Notes: For more information about the commands look [here](https://explainshell.com)*
 *Tip: When nothing else makes sense, try to use [LinPEAS](https://github.com/carlospolop/PEASS-ng) ([winPEAS](https://github.com/carlospolop/PEASS-ng) for windows machines.).*
@@ -194,9 +193,3 @@ Feel free to reach out and if there is something wrong about the above post. Fee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hambyhaxx)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hambyhaxx)
-
-### Socials
-
-* [Twitter](https://twitter.com/hambyhaxx)
-
-<-- [Go Back](https://hambyhacks.github.io)
