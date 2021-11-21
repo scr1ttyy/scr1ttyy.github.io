@@ -120,7 +120,7 @@ COMMAND | DESCRIPTION
 
 *Tip: When nothing else makes sense, try to use [LinPEAS](https://github.com/carlospolop/PEASS-ng) ([winPEAS](https://github.com/carlospolop/PEASS-ng) for windows machines.).*
 
-* We can see the `user.txt` file hanging in the desktop of `SG` user. `Double-Click` to open the file or if you want to to it in the terminal:
+* We can see the `user.txt` file hanging in the desktop of `SG` user. `Double-Click` to open the file or if you want do to it in the terminal:
 
     Syntax: ``cd C:\Users\SG\Desktop`` then ``type user.txt``
 
