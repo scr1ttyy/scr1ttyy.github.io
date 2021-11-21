@@ -74,7 +74,7 @@ Machine OS: Based on nmap results, it is a Windows OS machine.
 
 ![Admin](../imgs/Anthem/admin_user_google_search.png)
 
-* Nice! we got some informatio about `admin` user!
+* Nice! we got some information about `admin` user!
 
 *Tip: When in doubt, search it in Google.*
 
