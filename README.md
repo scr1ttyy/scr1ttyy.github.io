@@ -49,7 +49,8 @@ This blog post serves as my personal journal as well as a guide for aspiring ind
   * [Hackthebox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
   * [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
   * [TryHackMe: UltraTech](https://hambyhacks.github.io/Writeups/TryHackMe/UltraTech/UltraTech)
-  * [TryHackMe: Anthem](http://hambyhacks.github.io/Writeups/TryHackMe/Anthem/Anthem)
+  * [TryHackMe: Anthem](https://hambyhacks.github.io/Writeups/TryHackMe/Anthem/Anthem)
+  * [TryHackMe: SimpleCTF](https://hambyhacks.github.io/Writeups/Tryhackme/SimpleCTF/SimpleCTF)
 
 #### 📥 Socials
 - [Twitter](https://twitter.com/hambyhaxx)
