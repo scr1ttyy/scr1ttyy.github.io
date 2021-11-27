@@ -28,11 +28,11 @@ This blog post serves as my personal journal as well as a guide for aspiring ind
 
 * ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
   
-  * ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
+* ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
   
-  * ☑️ Practicing [Golang](https://golang.org) programming.
+* ☑️ Practicing [Golang](https://golang.org) programming.
   
-  * ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
+* ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
   
 ## 📚 Currently Reading
 
