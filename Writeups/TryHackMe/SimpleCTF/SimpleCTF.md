@@ -45,7 +45,7 @@ PORT | STATUS | SERVICE | VERSION
 
 ![Nmap Scan](../imgs/SimpleCTF/anon_FTPandSSH_on_non_standard_port.png)
 
-Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchpad.net/ubuntu/+source/openssh/1:7.2p2-4ubuntu2.8).
+  Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchpad.net/ubuntu/+source/openssh/1:7.2p2-4ubuntu2.8).
 
 ## Enumeration
 
@@ -92,6 +92,7 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchp
 ### *Web Enumeration using GoBuster*
 
 * Using [GoBuster](https://github.com/OJ/gobuster), we found some interesting directories.
+  * Syntax: `gobuster dir -u {IP} -w {PATH_TO_WORDLIST}`
 
 * Let's look at the result of ``GoBuster`` scan on port `80`.
 
@@ -115,6 +116,8 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchp
 * Mirror the exploit script using searchsploit.
   * Syntax: `searchsploit -m {PATH_TO_SCRIPT}`
   * Change the name of the exploit to more readable name. (*optional*)
+  
+  ![Searchsploit](../imgs/SimpleCTF/searchsploit_exploit.png)
 
 * Let's look at the exploit script and see what it does.
 
@@ -124,7 +127,7 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchp
   * Changes made:
     * `print {STATEMENT}` to `print({STATEMENT})`
     * `TIME` variable set to `2` instead of `1`.
-  * References for the `TIME` variable change: [Github Gist](https://gist.github.com/pdelteil/6ebac2290a6fb33eea1af194485a22b1)
+  * References for the `TIME` variable value change: [Github Gist](https://gist.github.com/pdelteil/6ebac2290a6fb33eea1af194485a22b1)
 
 * Let's now try to exploit the `CMS` using our modified exploit script.
 
@@ -147,9 +150,9 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchp
     ![SQLi Exploit Script Finished](../imgs/SimpleCTF/cms_sqli_creds_found.png)
 
 3. We can now use `hashcat` to bruteforce the `password` and `salt` hash using `rockyou.txt`.
-   * Syntax: `hashcat -m 10 {PASSWORD:SALT} {PATH_TO_WORDLIST}
+   * Syntax: `hashcat -m 10 {PASSWORD:SALT} {PATH_TO_WORDLIST}`
 
-4. We can now login via `SSH` using the credentials found by hashcat.
+4. We can now login via `SSH` using the credentials found by `hashcat`.
    * Syntax: `ssh {USER}@{IP} -p {PORT}`
 
 *Note: I did not use the `hashcat` method because I ran some issues in my Arch Linux not running my discrete GPU for cracking.*
@@ -169,13 +172,19 @@ Machine OS: Based on OpenSSH version, machine is [Ubuntu Xenial](https://launchp
 
     ![SSH Login](../imgs/SimpleCTF/ssh_successful_bruteforce.png)
 
+#### Table 1.2: Credentials Found
+
+Username | Password
+:---: | :---:
+mitch | secret
+
 * Let's now start enumerating internal services of the machine!
 
 ## Privilege Escalation / Post-Exploitation
 
 ### *Internal Enumeration*
 
-#### Table 1.2: Checklist for Linux Internal Enumeration
+#### Table 1.3: Checklist for Linux Internal Enumeration
 
 COMMAND | DESCRIPTION
 :---: | :---:
@@ -187,6 +196,7 @@ COMMAND | DESCRIPTION
 ``whoami && id`` | prints `effective userid` (EUID) and prints `real` and `effective userid` and `groupids` (GID).
 
 *Notes: For more information about the commands look [here](https://explainshell.com)*
+
 *Tip: When nothing else makes sense, try to use [LinPEAS](https://github.com/carlospolop/PEASS-ng) ([winPEAS](https://github.com/carlospolop/PEASS-ng) for windows machines.).*
 
 #### *Vertical Privilege Escalation*
@@ -240,5 +250,7 @@ Feel free to reach out and if there is something wrong about the above post. Fee
 ### Socials
 
 * [Twitter](https://twitter.com/hambyhaxx)
+* [Github](https://github.com/hambyhacks)
+* [Medium Version](https://hambyhaxx.medium.com/tryhackme-simplectf-47a8d0d50aeb)
 
 <-- [Go Back](https://hambyhacks.github.io)
