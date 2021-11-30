@@ -8,6 +8,18 @@
 
 *This Github Page serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.*
 
+## ⭐ Skills
+
+Skills listed here are on basic level but I am constantly learning to improve them!
+   
+☑️ Linux Command Line
+
+☑️ Git 
+
+☑️ Golang
+
+☑️ Bash
+
 ## ✔️ *10 Rules in Getting Into Cybersecurity:*
 
 ### 🥇 #1 is the most important rule for me *(my own opinion, also applies anywhere)*
@@ -37,9 +49,9 @@
 
 * ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
 
-## 🏆 Accomplishments
+## 🧪 Projects
 
-* ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon).
+* ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
 
 
 ## 🗒️ CTF Writeups
