@@ -1,6 +1,6 @@
 # 📖 Personal Blog About My Cybersecurity Journey
 
-*This serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.*
+*This Github Page serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.*
 
 ## ✔️ *10 Rules in Getting Into Cybersecurity:*
 
