@@ -1,5 +1,11 @@
 # 📖 Personal Blog About My Cybersecurity Journey
 
+## About Me
+
+![catto](https://avatars.githubusercontent.com/u/92630210?v=4&s=100)
+
+*My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.*
+
 *This Github Page serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.*
 
 ## ✔️ *10 Rules in Getting Into Cybersecurity:*
@@ -16,6 +22,37 @@
 8. Be you own motivator. Give yourself a reason to become persistent on what you do.
 9. Do not **compare** your achievements to others as it will hinder your success. Mind your own business. Keep moving forward.
 10. Give back to the community that helped you break your way into cybersecurity.
+
+## 📝 Currently Learning
+
+* ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
+  
+* ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
+  
+* ☑️ Practicing [Golang](https://golang.org) programming.
+  
+* ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
+  
+## 📚 Currently Reading
+
+* ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
+
+## 🏆 Accomplishments
+
+* ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon).
+
+
+## 🗒️ CTF Writeups
+
+### *Recently Added*
+
+* [Hackthebox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
+* [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
+* [TryHackMe: UltraTech](https://hambyhacks.github.io/Writeups/TryHackMe/UltraTech/UltraTech)
+* [TryHackMe: Anthem](https://hambyhacks.github.io/Writeups/TryHackMe/Anthem/Anthem)
+* [TryHackMe: SimpleCTF](https://hambyhacks.github.io/Writeups/TryHackMe/SimpleCTF/SimpleCTF)
+* [TryHackMe: BountyHacker](https://hambyhacks.github.io/Writeups/TryHackMe/BountyHacker/BountyHacker)
+
 
 ## 📥 Socials
 
