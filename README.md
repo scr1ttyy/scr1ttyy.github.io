@@ -53,15 +53,11 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
 
-[![wakatime](https://wakatime.com/badge/github/hambyhacks/CTFRecon.svg)](https://wakatime.com/badge/github/hambyhacks/CTFRecon)
-
 ☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
 
-[![wakatime](https://wakatime.com/badge/github/hambyhacks/100DaysOfGo.svg)](https://wakatime.com/badge/github/hambyhacks/100DaysOfGo)
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620.svg)](https://wakatime.com/@eaab2c2a-fe74-487c-bd96-f9069a349620)
 
 ☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
-
-[![wakatime](https://wakatime.com/badge/github/hambyhacks/hambyhacks.github.io.svg)](https://wakatime.com/badge/github/hambyhacks/hambyhacks.github.io)
 
 ## 🗒️ CTF Writeups
 
