@@ -37,21 +37,31 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ## 📝 Currently Learning
 
-* ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
+☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
   
-* ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
+☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
   
-* ☑️ Practicing [Golang](https://golang.org) programming.
+☑️ Practicing [Golang](https://golang.org) programming.
   
-* ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
+☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
   
 ## 📚 Currently Reading
 
-* ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
+☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
 
 ## 🧪 Projects
 
-* ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
+☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
+
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/be3e0cb2-63ee-4a21-955c-1004b28110d5.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/be3e0cb2-63ee-4a21-955c-1004b28110d5)
+
+☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
+
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/9cb04282-6d15-41e3-9298-2f6382c07c4d.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/9cb04282-6d15-41e3-9298-2f6382c07c4d)
+
+☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
+
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/4b3ada86-b751-41ca-a3fd-605e64de1400.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/4b3ada86-b751-41ca-a3fd-605e64de1400)
 
 
 ## 🗒️ CTF Writeups
