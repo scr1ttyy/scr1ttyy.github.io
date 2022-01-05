@@ -37,22 +37,27 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ## 📝 Currently Learning
 
-* ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
+☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com).
   
-* ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
+☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
   
-* ☑️ Practicing [Golang](https://golang.org) programming.
+☑️ Practicing [Golang](https://golang.org) programming.
   
-* ☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
+☑️ Cybersecurity Core Modules by [RangeForce](https://rangeforce.com).
   
 ## 📚 Currently Reading
 
-* ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
+☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins.
 
 ## 🧪 Projects
 
-* ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
+☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
 
+☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
+
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620.svg)](https://wakatime.com/@eaab2c2a-fe74-487c-bd96-f9069a349620)
+
+☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
 
 ## 🗒️ CTF Writeups
 
