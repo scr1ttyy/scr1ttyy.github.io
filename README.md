@@ -37,7 +37,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ## 📝 Currently Learning
 
-☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com). *Finished December 17, 2021*
+☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com). (*Finished December 17, 2021*)
   
 ☑️ Penetration Testing Methodologies via learning at [HackTheBox](https://hackthebox.com) and [TryHackMe](https://tryhackme.com).
   
@@ -45,9 +45,9 @@ Skills listed here are on basic level but I am constantly learning to improve th
   
 ## 📚 Currently Reading
 
-☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins. *Finished January 6, 2021*
+☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins. (*Finished January 6, 2021*)
 
-☑️ [The End Of Average](https://www.amazon.com/End-Average-Succeed-Values-Sameness/dp/0062358367) by Todd Rose. *Finished January 4, 2021*
+☑️ [The End Of Average](https://www.amazon.com/End-Average-Succeed-Values-Sameness/dp/0062358367) by Todd Rose. (*Finished January 4, 2021*)
 
 ☑️ [Atomic Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f) by James Clear.
 
