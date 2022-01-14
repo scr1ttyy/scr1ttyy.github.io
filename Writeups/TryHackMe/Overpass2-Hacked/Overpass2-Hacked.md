@@ -134,9 +134,9 @@ Using [Colabcat](https://colab.research.google.com/github/someshkar/colabcat/blo
 
 ### Credentials
 
-User | Password Hash | Salt | Decrypted Password
-:---: | :---: | :---: | :---:
-james | 6d05358f090eea56a238af02e47d44ee5489d234810ef6240280857ec69712a3e5e370b8a41899d0196ade16c0d54327c5654019292cbfe0b5e98ad1fec71bed | 1c362db832f3f864c8c2fe05f2002a05 | november16
+User | Password
+:---: | :---:
+james | november16
 
 We can now look at the result of our Nmap and Gobuster scan earlier from `CTFRecon-Go`.
 
@@ -149,11 +149,12 @@ We can now look at the result of our Nmap and Gobuster scan earlier from `CTFRec
 PORT | STATUS | SERVICE | VERSION
 :---: | :---: | :---: | :---:
 22/tcp | open | SSH | *OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)*
-80/tcp | open | HTTP | *Golang net/http server (Go-IPFS json-rpc or InfluxDB API)*
+80/tcp | open | HTTP | *Apache httpd 2.4.29 ((Ubuntu))*
+2222/tcp | open | SSH | *OpenSSH 8.2p1 Debian 4 (protocol 2.0)*
 
 ![Nmap Scan](../imgs/Overpass2/overpass2_nmapScan.png)
 
-Machine OS: Based on OpenSSH version, machine is [Ubuntu Bionic](https://launchpad.net/ubuntu/+source/openssh/1:7.6p1-4ubuntu0.3).
+Machine OS: Based on OpenSSH version on port 22, machine is [Ubuntu Bionic](https://launchpad.net/ubuntu/+source/openssh/1:7.6p1-4ubuntu0.3).
 
 Let's look at the `HTTP` server on port 80.
 
