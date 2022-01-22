@@ -73,6 +73,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 * [TryHackMe: BountyHacker](https://hambyhacks.github.io/Writeups/TryHackMe/BountyHacker/BountyHacker)
 * [TryHackMe: Overpass](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass/Overpass)
 * [TryHackMe: Overpass 2 - Hacked](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass2-Hacked/Overpass2-Hacked)
+* [TryHackMe: Overpass 3 - Hosting](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass3-Hosting/Overpass3)
 
 ## 📥 Socials
 
