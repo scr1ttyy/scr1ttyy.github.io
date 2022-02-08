@@ -65,7 +65,8 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ### *Recently Added*
 
-* [Hackthebox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
+* [HackTheBox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
+* [HackTheBox: Horizontall](https://hambyhacks.github.io/Writeups/HackTheBox/Horizontall/Horizontall)
 * [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
 * [TryHackMe: UltraTech](https://hambyhacks.github.io/Writeups/TryHackMe/UltraTech/UltraTech)
 * [TryHackMe: Anthem](https://hambyhacks.github.io/Writeups/TryHackMe/Anthem/Anthem)
