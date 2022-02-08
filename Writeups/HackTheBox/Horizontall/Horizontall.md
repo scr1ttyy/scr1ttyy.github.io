@@ -210,7 +210,7 @@ COMMAND | DESCRIPTION
 
 * Download [this](https://github.com/nth347/CVE-2021-3129_exploit) exploit PoC to root the machine.
 
-![Root Setup](.../imgs/Horizontall/true_root.png)
+![Root Setup](../imgs/Horizontall/true_root.png)
 
 * Navigate to /root/ directory and get your root.txt flag!
 
