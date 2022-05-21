@@ -51,7 +51,9 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ [Atomic Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f) by James Clear. (*Finished February 12, 2022*)
 
-☑️ [The Talent Code](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X) by Daniel Coyle.
+☑️ [The Talent Code](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X) by Daniel Coyle. (*Finished April 2022*)
+
+☑️ [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) by Stephen Covey.
 
 ## 🧪 Projects
 
