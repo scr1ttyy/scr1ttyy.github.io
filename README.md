@@ -67,10 +67,15 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ## 🗒️ CTF Writeups
 
-### *Recently Added*
+### Recently Added
+
+#### *HackTheBox*
 
 * [HackTheBox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
 * [HackTheBox: Horizontall](https://hambyhacks.github.io/Writeups/HackTheBox/Horizontall/Horizontall)
+
+#### *TryHackMe*
+
 * [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
 * [TryHackMe: UltraTech](https://hambyhacks.github.io/Writeups/TryHackMe/UltraTech/UltraTech)
 * [TryHackMe: Anthem](https://hambyhacks.github.io/Writeups/TryHackMe/Anthem/Anthem)
@@ -80,6 +85,10 @@ Skills listed here are on basic level but I am constantly learning to improve th
 * [TryHackMe: Overpass 2 - Hacked](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass2-Hacked/Overpass2-Hacked)
 * [TryHackMe: Overpass 3 - Hosting](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass3-Hosting/Overpass3)
 * [TryHackMe: Mr. Robot CTF](https://hambyhacks.github.io/Writeups/TryHackMe/MrRobot/MrRobot)
+
+#### *PicoCTF*
+
+* [PicoCTF 2022: basic-file-exploit](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/basic-file-exploit)
 
 ## 📥 Socials
 
