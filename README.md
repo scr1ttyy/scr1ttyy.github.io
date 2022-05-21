@@ -1,4 +1,4 @@
-# 📖 Personal Blog About My Cybersecurity Journey
+# 📖 Cybersecurity Blog
 
 ## ❓ About Me
 
