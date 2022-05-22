@@ -90,6 +90,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 #### *PicoCTF*
 
 * [PicoCTF 2022: basic-file-exploit](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/basic-file-exploit/basic-file-exploit)
+* [PicoCTF 2022: buffer_overflow0](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow0/buffer_overflow0)
 
 ## 📥 Socials
 
