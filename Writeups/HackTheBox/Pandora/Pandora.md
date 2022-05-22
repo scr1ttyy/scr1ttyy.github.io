@@ -289,7 +289,7 @@ Looking at `matt`'s home directory, we noticed that he does not `SSH` keys. We c
 
 To generate `SSH` keys:
 
-* `ssh-keygen` 
+* `ssh-keygen`
 
 *Note: I didn't set the password in generating ssh keys for matt but you can set it if you wish.*
 
