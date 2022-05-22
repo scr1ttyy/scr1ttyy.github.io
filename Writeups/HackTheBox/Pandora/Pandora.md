@@ -38,6 +38,8 @@ To use `CTFRecon-Go` if installed using `go install`:
 
 * `sudo CTFRecon-Go -d [DIRECTORY_NAME] -p [PLATFORM] -i [IP] -w [WORDLIST_TO_USE_FOR_GOBUSTER]`
 
+*Side Note: CTFRecon-Go is not working for the moment and I am trying to fix it. You can still use your recon scripts (if you have one) or the standard way which you do your CTF machines like this.*
+
 ## External Enumeration
 
 ### *Preliminary Enumeration via nmap*
