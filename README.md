@@ -73,6 +73,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 * [HackTheBox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
 * [HackTheBox: Horizontall](https://hambyhacks.github.io/Writeups/HackTheBox/Horizontall/Horizontall)
+* [HackTheBox: Pandora](https://hambyhacks.github.io/Writeups/HackTheBox/Pandora/Pandora)
 
 #### *TryHackMe*
 
