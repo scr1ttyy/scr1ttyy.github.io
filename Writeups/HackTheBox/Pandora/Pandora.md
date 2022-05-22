@@ -77,11 +77,11 @@ Let's now look at the webpage running at port 80.
 
 ![Webpage Port 80](../imgs/Pandora/webpage_port80.png)
 
-Looking around the webpage, there is not much we can do. We can also look at the web technologies running on the web server by using the Firefox plugin, [Wapplayzer](https://www.wappalyzer.com/).
+Looking around the webpage, there is not much we can do. We can also look at the web technologies running on the web server by using the Firefox plugin, [Wappalyzer](https://www.wappalyzer.com/).
 
 ![Webpage Tech](../imgs/Pandora/webpage_webTech.png)
 
-There is also not much of new information we found using `wapplayzer`. Let's try to look at the source code of the webpage.
+There is also not much of new information we found using `wappalyzer`. Let's try to look at the source code of the webpage.
 
 ![Assets](../imgs/Pandora/assets_dir_webpage_port80.png)
 
