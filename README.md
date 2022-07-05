@@ -1,6 +1,4 @@
-# 📖 Cybersecurity Blog
-
-## ❓ About Me
+# ❓ About Me
 
 ![catto](https://avatars.githubusercontent.com/u/92630210?v=4&s=100)
 
@@ -8,7 +6,7 @@
 
 *This Github Page serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.*
 
-## ⭐ Skills
+# ⭐ Skills
 
 Skills listed here are on basic level but I am constantly learning to improve them!
 
@@ -20,9 +18,9 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ Bash
 
-## ✔️ *10 Rules in Getting Into Cybersecurity:*
+# ✔️ *10 Rules in Getting Into Cybersecurity:*
 
-### 🥇 #1 is the most important rule for me *(my own opinion, also applies anywhere)*
+## 🥇 #1 is the most important rule for me *(my own opinion, also applies anywhere)*
 
 1. Get started if you really want it. Get a feel of it when learning, when you feel it does not resonate in you, you can still do what you love.
 2. Learn everyday even for a small amount of time. Small things add up to a bigger outcomes.
@@ -35,7 +33,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 9. Do not **compare** your achievements to others as it will hinder your success. Mind your own business. Keep moving forward.
 10. Give back to the community that helped you break your way into cybersecurity.
 
-## 📝 Currently Learning
+# 📝 Currently Learning
 
 ☑️ Web Penetration Testing via Remote Intership at [Virtually Testing Foundation](https://virtuallytesting.com). (*Finished December 17, 2021*)
   
@@ -43,7 +41,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
   
 ☑️ Practicing [Golang](https://golang.org) programming at [Exercism](https://exercism.org).
   
-## 📚 Currently Reading
+# 📚 Currently Reading
 
 ☑️ [Finish What You Start](https://www.amazon.com/Finish-What-You-Start-Self-Discipline/dp/1986622312) by Peter Hollins. (*Finished January 6, 2021*)
 
@@ -55,7 +53,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) by Stephen Covey.
 
-## 🧪 Projects
+# 🧪 Projects
 
 ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
 
@@ -65,17 +63,17 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
 
-## 🗒️ CTF Writeups
+# 🗒️ CTF Writeups
 
-### Recently Added
+## Recently Added
 
-#### *HackTheBox*
+### *HackTheBox*
 
 * [HackTheBox: Cap](https://hambyhacks.github.io/Writeups/HackTheBox/Cap/Cap)
 * [HackTheBox: Horizontall](https://hambyhacks.github.io/Writeups/HackTheBox/Horizontall/Horizontall)
 * [HackTheBox: Pandora](https://hambyhacks.github.io/Writeups/HackTheBox/Pandora/Pandora)
 
-#### *TryHackMe*
+### *TryHackMe*
 
 * [TryHackMe: RootMe](https://hambyhacks.github.io/Writeups/TryHackMe/RootMe/RootMe)
 * [TryHackMe: UltraTech](https://hambyhacks.github.io/Writeups/TryHackMe/UltraTech/UltraTech)
@@ -88,19 +86,19 @@ Skills listed here are on basic level but I am constantly learning to improve th
 * [TryHackMe: Mr. Robot CTF](https://hambyhacks.github.io/Writeups/TryHackMe/MrRobot/MrRobot)
 * [TryHackMe: Brooklyn Nine-Nine](https://hambyhacks.github.io/Writeups/TryHackMe/Brooklyn%20Nine-Nine/b99)
 
-#### *PicoCTF*
+### *PicoCTF*
 
 * [PicoCTF 2022: basic-file-exploit](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/basic-file-exploit/basic-file-exploit)
 * [PicoCTF 2022: buffer_overflow0](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow0/buffer_overflow0)
 * [PicoCTF 2022: buffer_overflow1](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow1/buffer_overflow1)
 
-## 📥 Socials
+# 📥 Socials
 
 <p align="left">
   <a href="https://twitter.com/hambyhaxx" target="_blank"><img src="https://img.shields.io/twitter/follow/hambyhaxx?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a>
   <a href="https://hambyhaxx.medium.com" target="_blank"><img src="https://img.shields.io/badge/hambyhaxx-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/hambyhaxx" alt="Medium Followers."/></a>
    </p>
 
-## 💝 Support Me
+# 💝 Support Me
 
 * [Donations](./donationBox)
