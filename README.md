@@ -92,6 +92,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 * [PicoCTF 2022: buffer_overflow0](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow0/buffer_overflow0)
 * [PicoCTF 2022: buffer_overflow1](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow1/buffer_overflow1)
 * [PicoCTF 2022: buffer_overflow2](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/buffer_overflow2/buffer_overflow2)
+* [PicoCTF 2022: RPS](https://hambyhacks.github.io/Writeups/PicoCTF2022/Binary_Exploitation/RPS/RPS)
 
 # 📥 Socials
 
