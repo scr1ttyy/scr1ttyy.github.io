@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ❓ About Me
 
 ![catto](https://avatars.githubusercontent.com/u/92630210?v=4&s=100)
@@ -215,4 +214,3 @@ Skills listed here are on basic level but I am constantly learning to improve th
 ## 💝 Support Me
 
 * [Donations](./donationBox)
->>>>>>> updates
