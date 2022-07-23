@@ -87,6 +87,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 * [TryHackMe: Overpass 3 - Hosting](https://hambyhacks.github.io/Writeups/TryHackMe/Overpass3-Hosting/Overpass3)
 * [TryHackMe: Mr. Robot CTF](https://hambyhacks.github.io/Writeups/TryHackMe/MrRobot/MrRobot)
 * [TryHackMe: Brooklyn Nine-Nine](https://hambyhacks.github.io/Writeups/TryHackMe/Brooklyn%20Nine-Nine/b99)
+* [TryHackMe: Colddbox: Easy](https://hambyhacks.github.io/Writeups/TryHackMe/C0lddbox/C0lddbox)
 
 #### *PicoCTF*
 
