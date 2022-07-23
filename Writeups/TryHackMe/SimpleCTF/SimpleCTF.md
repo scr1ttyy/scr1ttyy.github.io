@@ -251,6 +251,6 @@ Feel free to reach out and if there is something wrong about the above post. Fee
 
 * [Twitter](https://twitter.com/hambyhaxx)
 * [Github](https://github.com/hambyhacks)
-* [Medium Version](https://hambyhaxx.medium.com/tryhackme-simplectf-47a8d0d50aeb)
+* [Medium](https://hambyhaxx.medium.com/tryhackme-simplectf-47a8d0d50aeb)
 
 <-- [Go Back](https://hambyhacks.github.io)

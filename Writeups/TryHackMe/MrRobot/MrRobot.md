@@ -294,6 +294,4 @@ Not required but appreciated! :D
 
 * [Medium](https://hambyhaxx.medium.com)
 
-* [Hashnode](https://hambyhacks.hashnode.dev)
-
 <-- [Go Back](https://hambyhacks.github.io)
