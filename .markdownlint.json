@@ -1,0 +1,6 @@
+{
+    "no-inline-html": false,
+    "line_length":false,
+    "code-fence-style": false,
+    "fenced-code-language": false
+}

@@ -261,6 +261,4 @@ Feel free to reach out and if there is something wrong about the above post. Fee
 
 * [Medium](https://hambyhaxx.medium.com)
 
-* [Hashnode](https://hambyhacks.hashnode.dev)
-
 <-- [Go Back](https://hambyhacks.github.io)
