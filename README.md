@@ -63,7 +63,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 [![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620.svg)](https://wakatime.com/@eaab2c2a-fe74-487c-bd96-f9069a349620)
 
-☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
+☑️ Created a blog about CTF Writeups. [Link](https://hambyhacks.github.io)
 
 ## 🗒️ CTF Writeups
 
