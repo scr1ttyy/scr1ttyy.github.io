@@ -1,4 +1,4 @@
-# [Bolt](https://tryhackme.com/room/bolt) by [Coldd](https://tryhackme.com/p/Coldd)
+# [Bolt](https://tryhackme.com/room/bolt) by [0x9747](https://tryhackme.com/p/0x9747)
 
 ```bash
 IP = 10.10.143.4*
