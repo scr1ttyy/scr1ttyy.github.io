@@ -4,7 +4,7 @@
 
 ### *RootCon18-CTF*
 
-* [RootCon18-CTF: RollA5d6](https://scr1ttyy.github.io/Writeups/Rootcon18-CTF/BinForCry/RollA5d6)
+* [RootCon18-CTF: RollA5d6](https://scr1ttyy.github.io/Writeups/Rootcon18-CTF/BinForCry/RollA5d6/RollA5d6)
 
 ### *HackTheBox*
 
