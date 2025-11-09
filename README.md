@@ -2,6 +2,12 @@
 
 ## Recently Added
 
+### Miscellaneous
+
+#### Exploit Development / Binary Exploitation
+
+* [Vulnerserver: Trun() - Detailed Analysis](https://scr1ttyy.github.io/Writeups/Miscellaneous/BinaryExploitation/Vulnserver/Vulnserver)
+
 ### *RootCon18-CTF*
 
 * [RootCon18-CTF: RollA5d6](https://scr1ttyy.github.io/Writeups/Rootcon18-CTF/BinForCry/RollA5d6/RollA5d6)
